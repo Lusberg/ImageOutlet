@@ -19,7 +19,7 @@
 
 ## Screenshot
 	
-![](/imageoutlet_screenshot?raw=true)
+![](/imageoutlet_screenshot.png?raw=true)
 
 ## Tutorial
 
